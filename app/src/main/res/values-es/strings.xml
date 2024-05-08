@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guau</string>
+    <string name="nombre_1">Koda</string>
+    <string name="nombre_2">Lola</string>
+    <string name="nombre_3">Frankie</string>
+    <string name="nombre_4">Nox</string>
+    <string name="nombre_5">Faye</string>
+    <string name="nombre_6">Bella</string>
+    <string name="nombre_7">Moana</string>
+    <string name="nombre_8">Tzeitel</string>
+    <string name="nombre_9">Leroy</string>
+    <string name="descripcion_1">Comer golosinas en la terraza</string>
+    <string name="descripcion_2">Ladrar a papá</string>
+    <string name="descripcion_3">Robar calcetines</string>
+    <string name="descripcion_4">Conocer nuevos animales</string>
+    <string name="descripcion_5">Excavar en el jardín</string>
+    <string name="descripcion_6">Persiguiendo la espuma del mar</string>
+    <string name="descripcion_7">Molestando a sus padres</string>
+    <string name="descripcion_8">Tomar el sol</string>
+    <string name="descripcion_9">Dormir en lugares peligrosos</string>
+    <string name="acerca">Sobre:</string>
+    <string name="annios">%d años</string>
+    <string name="boton_descripcion">Ver más o menos información sobre un perro.</string>
+</resources>

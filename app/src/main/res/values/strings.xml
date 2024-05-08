@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Guau!</string>
+    <string name="nombre_1">Koda</string>
+    <string name="nombre_2">Lola</string>
+    <string name="nombre_3">Frankie</string>
+    <string name="nombre_4">Nox</string>
+    <string name="nombre_5">Faye</string>
+    <string name="nombre_6">Bella</string>
+    <string name="nombre_7">Moana</string>
+    <string name="nombre_8">Tzeitel</string>
+    <string name="nombre_9">Leroy</string>
+    <string name="descripcion_1">Eating treats on the terrace</string>
+    <string name="descripcion_2">Barking at Daddy</string>
+    <string name="descripcion_3">Stealing socks</string>
+    <string name="descripcion_4">Meeting new animals</string>
+    <string name="descripcion_5">Digging in the garden</string>
+    <string name="descripcion_6">Chasing sea foam</string>
+    <string name="descripcion_7">Bothering her paw-rents</string>
+    <string name="descripcion_8">Sunbathing</string>
+    <string name="descripcion_9">Sleeping in dangerous places</string>
+    <string name="acerca">About:</string>
+    <string name="annios">%d years old</string>
+    <string name="boton_descripcion">See more or less information about a dog.</string>
+</resources>
